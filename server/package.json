@@ -1,0 +1,14 @@
+{
+  "name": "memelists",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=15.1.2"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
